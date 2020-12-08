@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607309170 source:c:\users\pco\desktop\lp-csunsa\nave\nave\main.cpp
+	<iostream>
+	<allegro.h>
+

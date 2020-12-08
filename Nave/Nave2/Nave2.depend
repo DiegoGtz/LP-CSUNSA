@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1607344812 source:c:\users\pco\desktop\lp-csunsa\nave\nave2\main.cpp
+	<iostream>
+	<allegro.h>
+	<Controller.h>
+	<MainGame.h>
+	<Nave.h>
+
+1607344143 source:c:\users\pco\desktop\lp-csunsa\nave\nave2\src\controller.cpp
+	"Controller.h"
+
+1607344102 c:\users\pco\desktop\lp-csunsa\nave\nave2\include\controller.h
+	<MainGame.h>
+
+1607344134 c:\users\pco\desktop\lp-csunsa\nave\nave2\include\maingame.h
+	<allegro.h>
+
+1607343761 source:c:\users\pco\desktop\lp-csunsa\nave\nave2\src\maingame.cpp
+	"MainGame.h"
+
+1607344387 source:c:\users\pco\desktop\lp-csunsa\nave\nave2\src\nave.cpp
+	"Nave.h"
+
+1607344645 c:\users\pco\desktop\lp-csunsa\nave\nave2\include\nave.h
+	<MainGame.h>
+	<allegro.h>
+	<iostream>
+	<vector>
+
